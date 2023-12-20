@@ -1,0 +1,10 @@
+# REQUEST
+string command
+int32 s
+int32 angle
+---
+# RESULT
+bool result
+---
+# FEEDBACK
+int32 odom
